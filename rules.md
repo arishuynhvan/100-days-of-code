@@ -14,7 +14,8 @@
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If I run out of things to build or feel bored with my current projects, read [FAQ](FAQ.md) or return to [Free Code Camp Curriculum](http://freecodecamp.com/map)).
 6. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
 7. I will encourage and support at least two people each day in the #100DaysOfCode challenge on Twitter, Gitter or Slack.
-8. Besides my short log, I will spend at least half an hour each day to document my problem solving approach & learninng points on Medium in the template:
+8. Complete 2 IMPT! tasks before staring the challenge: potential project ideas in a timeline & personal portfolio website
+9. Besides my short log, I will spend at least half an hour each day to document my problem solving approach & learninng points on Medium in the template:
 ```
 What is the challenge today?
 
@@ -30,7 +31,6 @@ What did I help others with today?
 
 How do I think/feel about that?
 ```
-9. Complete 2 IMPT! tasks before staring the challenge: potential project ideas in a timeline & personal portfolio website
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
