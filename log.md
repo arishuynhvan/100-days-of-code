@@ -9,6 +9,7 @@
 **Link to work:** [Pomodoro Clock - Design](http://codepen.io/arishuynhvan/pen/jyPWdW)
 
 **Resources:**
+
 1. [Awesome Glass Effects with CSS](http://www.webtutorialplus.com/glass-effects-with-css/)
 2. [Portions of Circle with CSS](http://jsfiddle.net/jonathansampson/7PtEm/)
 3. [Awesome CSS-based Text Effects](https://www.midwinter-dg.com/permalink-7-great-css-based-text-effects-using-the-text-shadow-property_2011-03-03.html)
