@@ -11,7 +11,7 @@
 2. If I code at work or for my school assignments, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges for at least 1 hour/day. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If I run out of things to build or feel bored with my current projects, read [FAQ](FAQ.md) or return to [Free Code Camp Curriculum](http://freecodecamp.com/map)).
+5. I will work on real projects or algorithmic challenges for at least 1 hour/day. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If I run out of things to build or feel bored with my current projects, read [FAQ](FAQ.md) or return to [Free Code Camp Curriculum](http://freecodecamp.com/map)).
 6. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
 7. I will encourage and support at least two people each day in the #100DaysOfCode challenge on Twitter, Gitter or Slack.
 8. Complete 2 IMPT! tasks before staring the challenge: potential project ideas in a timeline & personal portfolio website
