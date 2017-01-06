@@ -15,7 +15,7 @@
 6. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
 7. I will encourage and support at least two people each day in the #100DaysOfCode challenge on Twitter, Gitter or Slack.
 8. Complete 2 IMPT! tasks before staring the challenge: potential project ideas in a timeline & personal portfolio website
-9. Besides my short log, I will spend at least half an hour each day to document my problem solving approach & learninng points on Medium in the template:
+9. Besides my short log, I will spend at least half an hour each day to document my problem solving approach & learninng points on [my crude Jekyll blog](https://arishuynhvan.github.io/) in the template:
 ```
 What is the challenge today?
 
