@@ -1,29 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: 1st January 2017 (Example 1)
+### Day 1: 6th January 2017 
 
-**Today's Progress**: 
+**Today's Progress**: I decided to work on the Pomodoro Clock Project on FreeCodeCamp. The result was a simple design with HTML and CSS. I find the time limit imposed by this challenge really helpful as it stopped me from wasting my time with one single aspect of the project. I try to stick with the most agreeable result for now, but eager to explore more designs with CSS3. Will work with JS tomorrow - MUST postpone design till CSS is done!
 
-**Thoughts:** 
+**Thoughts:** It was really hard to just design a normal, basic look for the clock. I was using Material Design Colors for basic colors of the clock, but really spent long time choosing among options. In the end, I ended up with dark and light blue (again). For some weird reasons I still think that cold colors are easier to use than hot colors, so I really need to work more on my color theory and its application. 
 
-**Link to work:** [My Projects Timeline]()
+**Link to work:** [Pomodoro Clock - Design](http://codepen.io/arishuynhvan/pen/jyPWdW)
 
-### Day 0: 2nd January 2017 (Example 2)
+**Resources:**
+1. [Awesome Glass Effects with CSS](http://www.webtutorialplus.com/glass-effects-with-css/)
+2. [Portions of Circle with CSS](http://jsfiddle.net/jonathansampson/7PtEm/)
+3. [Awesome CSS-based Text Effects](https://www.midwinter-dg.com/permalink-7-great-css-based-text-effects-using-the-text-shadow-property_2011-03-03.html)
+
+### Day 2: 7th January 2017 (Example 2)
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
-**Link(s) to work**: [My Website]()
-
-```
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-```
+**Link(s) to work**:[Pomodoro Clock]()
