@@ -20,4 +20,4 @@
 
 **Thoughts**: It was kinda confusing rather than challenging due to the lack of such tutorials on the web. I documented my steps in the latest [blog post](https://arishuynhvan.github.io/100DaysOfCode-Day2/)
 
-**Link(s) to work**:[My blog](https://github.com/arishuynhvan/arishuynhvan.github.io)
+**Link(s) to work**: [My blog](https://github.com/arishuynhvan/arishuynhvan.github.io)
