@@ -14,7 +14,7 @@
 2. [Portions of Circle with CSS](http://jsfiddle.net/jonathansampson/7PtEm/)
 3. [Awesome CSS-based Text Effects](https://www.midwinter-dg.com/permalink-7-great-css-based-text-effects-using-the-text-shadow-property_2011-03-03.html)
 
-### Day 2: 7th January 2017 (Example 2)
+### Day 2: 7th January 2017
 
 **Today's Progress**: Enhanced my blog with Disqus comments
 
