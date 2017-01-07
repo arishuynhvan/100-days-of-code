@@ -16,8 +16,8 @@
 
 ### Day 2: 7th January 2017 (Example 2)
 
-**Today's Progress**: 
+**Today's Progress**: Enhanced my blog with Disqus comments
 
-**Thoughts**: 
+**Thoughts**: It was kinda confusing rather than challenging due to the lack of such tutorials on the web. I documented my steps in the latest [blog post](https://arishuynhvan.github.io/100DaysOfCode-Day2/)
 
-**Link(s) to work**:[Pomodoro Clock]()
+**Link(s) to work**:[My blog](https://github.com/arishuynhvan/arishuynhvan.github.io)
