@@ -24,28 +24,41 @@ Reach intermediate - advanced level of scientific computing using C++
 2. Explore & contribute to [Shogun ML](https://github.com/shogun-toolbox/shogun/tree/shogun_6.1.3) 
 3. Master common algorithms in C++ 
 
+**Weekend Adventure:**
+
+Sat & Sun are for exploring other technical stacks to stimulate new ideas, challenge my comfort zone, and prepare for a career in my dream field, neuroengineering.
+
+1. Android Development & contribute to [Neurolab](https://github.com/fossasia/neurolab-android)
+
+OR
+
+2. Learn [Analysis of Neural Time Series Data](https://mitpress.mit.edu/books/analyzing-neural-time-series-data) through the author's [lecturelets](http://mikexcohen.com/lectures.html) and [Udemy course](https://www.udemy.com/share/100P9iB0oTeV1WQw==/)
 
 ### Day 1: 10th May 2019 
 
 **Today's Progress:** 
 
-I'm reading [SALib](https://github.com/SALib/SALib),  its [tutorial](https://github.com/SALib/SATut), and[GSA Module](https://github.com/damar-wicaksono/gsa-module) to understand how Morris's Method is implemented. 
+I was reading [SALib](https://github.com/SALib/SALib),  its [tutorial](https://github.com/SALib/SATut), and[GSA Module](https://github.com/damar-wicaksono/gsa-module) to understand how Morris's Method should be implemented. 
+
+I applied to become a mentor of Udacity C++ Nanodegree.
 
 **Thoughts:** 
 
 The problem is that parameters and independent variables are all treated as inputs in this implementation, but the models I'm dealing with draw a clear distinction. The input type expected for parameters is a 1D array of doubles, with a fixed value for each parameter, while a 2D array is expected for the independent variable. 
 
-The technical difficulty I'm facing is that most open source libraries for SA were written in Python or R, so I'm converting them into pseudocode. Trying to understand the examples is quite hard as well since there are often too many parameters without a mathematic representation. I'll trace each line to formulate for my own understanding. Also, I'll probably fork the tutorial repo and offer a PR once I can understand what was going on there. 
+Most open source libraries for SA were written in Python or R, so I'm converting them into pseudocode. Trying to understand the examples is quite hard as well since there are often too many parameters without a mathematic representation. I'll trace each line to formulate for my own understanding. Also, I'll probably fork the tutorial repo and offer a PR once I can understand what was going on there. 
+
+I minimized the usage of negative words (1).
 
 **Tomorrow's plan:** 
 
-[] Continue to convert SA libraries in Python to pseudocode
+- [ ] Continue to convert SA libraries in Python to pseudocode
 
-[] Continue to formulate the models in the examples of the tutorials 
+- [ ] Continue to formulate the models in the examples of the tutorials 
 
-[] Explore if CI/CD is possible without authorization requirement (most likely no... bc Codedacy isn't free for private repo, but Jenkins or TravisCI may provide an option).
+- [ ] Explore if CI/CD is possible without authorization requirement (most likely no... bc Codedacy isn't free for private repo, but Jenkins or TravisCI may provide an option). (op)
 
-[] Move the content to blog bc this log file is getting too long just by the 1st day
+- [ ] Move the content to blog bc this log file is getting too long just by the 1st day. (op)
 
 **Link to work:** 
 
@@ -57,3 +70,6 @@ The technical difficulty I'm facing is that most open source libraries for SA we
 [GSA Module](https://github.com/damar-wicaksono/gsa-module)
 [GSA doc](https://gsa-module.readthedocs.io/en/stable/implementation/morris_screening_method.html#)
 [SAFE Toolbox](https://www.sciencedirect.com/science/article/pii/S1364815215001188)
+[Function Pointer C++](https://www.cprogramming.com/tutorial/function-pointers.html)
+[Void Pointer C++](https://www.learncpp.com/cpp-tutorial/613-void-pointers/)
+[Checkbox for Github Markdown](https://help.github.com/en/articles/about-task-lists)
