@@ -1,23 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 1: 6th January 2017 
+### Day 0: 10th May 2019
 
-**Today's Progress**: I decided to work on the Pomodoro Clock Project on FreeCodeCamp. The result was a simple design with HTML and CSS. I find the time limit imposed by this challenge really helpful as it stopped me from wasting my time with one single aspect of the project. I try to stick with the most agreeable result for now, but eager to explore more designs with CSS3. Will work with JS tomorrow - MUST postpone design till CSS is done!
+**Background:** I failed this quest back in 2017, but I am determined to finish it this time. The main cause of failure was the lack of focus and numerous distractions from new and exciting technologies. 
 
-**Thoughts:** It was really hard to just design a normal, basic look for the clock. I was using Material Design Colors for basic colors of the clock, but really spent long time choosing among options. In the end, I ended up with dark and light blue (again). For some weird reasons I still think that cold colors are easier to use than hot colors, so I really need to work more on my color theory and its application. 
+I believe such failures are crucial to both my personal and career development despite the pain and costs. Given new understanding about my own strengths and weaknesses, I structure this new quest to focus only a single language and domain. 
 
-**Link to work:** [Pomodoro Clock - Design](http://codepen.io/arishuynhvan/pen/jyPWdW)
+Finally, I will acknowledge even the time spent on installing software, since it's often much longer than coding time. It's unproductive, but still part of the learning experience and should be documented.
+
+I must learn to document more quickly and efficiently, but must count such time into this quest to prevent burn-outs and self-blame. 
+
+**Goals:**
+Reach intermediate - advanced level of scientific computing using C++
+
+**Priority:**
+1. Implement sensitivity analysis libraries for parameters in C++ with minimal dependency
+2. Explore & contribute to [Shogun ML](https://github.com/shogun-toolbox/shogun/tree/shogun_6.1.3) 
+3. Master common algorithms in C++ 
+
+
+### Day 1: 10th May 2019 
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to work:** 
 
 **Resources:**
-
-1. [Awesome Glass Effects with CSS](http://www.webtutorialplus.com/glass-effects-with-css/)
-2. [Portions of Circle with CSS](http://jsfiddle.net/jonathansampson/7PtEm/)
-3. [Awesome CSS-based Text Effects](https://www.midwinter-dg.com/permalink-7-great-css-based-text-effects-using-the-text-shadow-property_2011-03-03.html)
-
-### Day 2: 7th January 2017
-
-**Today's Progress**: Enhanced my blog with Disqus comments
-
-**Thoughts**: It was kinda confusing rather than challenging due to the lack of such tutorials on the web. I documented my steps in the latest [blog post](https://arishuynhvan.github.io/100DaysOfCode-Day2/)
-
-**Link(s) to work**: [My blog](https://github.com/arishuynhvan/arishuynhvan.github.io)
