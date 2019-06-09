@@ -40,8 +40,6 @@ OR
 
 I was reading [SALib](https://github.com/SALib/SALib),  its [tutorial](https://github.com/SALib/SATut), and[GSA Module](https://github.com/damar-wicaksono/gsa-module) to understand how Morris's Method should be implemented. 
 
-I applied to become a mentor of Udacity C++ Nanodegree.
-
 **Thoughts:** 
 
 The problem is that parameters and independent variables are all treated as inputs in this implementation, but the models I'm dealing with draw a clear distinction. The input type expected for parameters is a 1D array of doubles, with a fixed value for each parameter, while a 2D array is expected for the independent variable. 
