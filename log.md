@@ -67,11 +67,11 @@ _* optional_
 [insert the commit number](), but it's not accessible at the moment due to private setting.
 
 **Resources:**
-[SALib](https://github.com/SALib/SALib)
-[SALib tutorial](https://github.com/SALib/SATut)
-[GSA Module](https://github.com/damar-wicaksono/gsa-module)
-[GSA doc](https://gsa-module.readthedocs.io/en/stable/implementation/morris_screening_method.html#)
-[SAFE Toolbox](https://www.sciencedirect.com/science/article/pii/S1364815215001188)
-[Function Pointer C++](https://www.cprogramming.com/tutorial/function-pointers.html)
-[Void Pointer C++](https://www.learncpp.com/cpp-tutorial/613-void-pointers/)
-[Checkbox for Github Markdown](https://help.github.com/en/articles/about-task-lists)
+- [SALib](https://github.com/SALib/SALib)
+- [SALib tutorial](https://github.com/SALib/SATut)
+- [GSA Module](https://github.com/damar-wicaksono/gsa-module)
+- [GSA doc](https://gsa-module.readthedocs.io/en/stable/implementation/morris_screening_method.html#)
+- [SAFE Toolbox](https://www.sciencedirect.com/science/article/pii/S1364815215001188)
+- [Function Pointer C++](https://www.cprogramming.com/tutorial/function-pointers.html)
+- [Void Pointer C++](https://www.learncpp.com/cpp-tutorial/613-void-pointers/)
+- [Checkbox for Github Markdown](https://help.github.com/en/articles/about-task-lists)
