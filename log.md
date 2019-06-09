@@ -52,13 +52,15 @@ I minimized the usage of negative words (1).
 
 **Tomorrow's plan:** 
 
-- [ ] Continue to convert SA libraries in Python to pseudocode
+- [X] Continue to convert SA libraries in Python to pseudocode
 
-- [ ] Continue to formulate the models in the examples of the tutorials 
+- [X] Continue to formulate the models in the examples of the tutorials 
 
-- [ ] Explore if CI/CD is possible without authorization requirement (most likely no... bc Codedacy isn't free for private repo, but Jenkins or TravisCI may provide an option). (op)
+- [ ] Explore if CI/CD is possible without authorization requirement (most likely no... bc Codedacy isn't free for private repo, but Jenkins or TravisCI may provide an option).*
 
-- [ ] Move the content to blog bc this log file is getting too long just by the 1st day. (op)
+- [ ] Move the content to blog bc this log file is getting too long just by the 1st day.*
+
+_* optional_
 
 **Link to work:** 
 
